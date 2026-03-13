@@ -1,4 +1,4 @@
-# UniWell- Student Wellness App
+# UniWell- Student habit tracker App
 SDG3: Good Health and Well-Being
 
 ### problem description
