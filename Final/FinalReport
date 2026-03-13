@@ -1,23 +1,23 @@
 Summary of results
 
 # Overveiw
-The Uniwell prototype was successfully developed and tested. it provides students
-with daily wellness companion that supports health logging, progress tracking,
-reminders and emergency alerts.
+The Uniwell prototype was a success developed and tested. It provided daily wellness companion
+for students, helping them log their health, track their progress,receive reminders and emergency alerts.
 
 # Results
-1. Students were able to create accounts, log in and reset passwords smoothly.
-2. Health logging and progress indiactors were clear and easy to use.
-3. Weekly summaries and reminders encouraged consistent tracking of water intake, sleep, and exercise.
-4. Emergency alerts worked as intended, notifying the University clinic and allowing direct calls.
-5. Minor improvements were identified in navigation and visibility of the activity recording section.
+1. Students were able to create accounts, log in and reset their passwords.
+2. The Health log and progress indictors were clear and easy to understand.
+3. Weekly summaries and reminders were effective in helping students track their daily water intake, sleep, and exercise.
+4. Emergency alerts were effective in contacting and notifying the University clinic directly.
+5. Minor adjustments were needed in navigation and the visibility of the activity recording section.
 
 #SDLC reflection
--Planning: Requirements defined, Trello board used for task tracking, project plan prepared.
--Design: Wireframes and mockups created to visualize UniWell’s flow.
--Testing: Three users tested the prototype; feedback confirmed usability and highlighted small areas for improvement.
--Finalization: Prototype screenshots compiled, results summarized, and refinements noted.
+-Planning: Requirements were clearly defined, a Trello board was used for tracking, project plan was prepared.
+-Design: Wireframes were designed to visualize the flow of UniWell.
+-Testing: Three users tested the prototype, and feedback confirmed its usability with minor adjustments needed.
+-Finalization: Screenshots of the prototype were compiled, results were summarized, and adjustments were made.
 
 #Conclusion
-This organization of deliverables demonstrates the SDLC phases clearly and makes the UniWell project easy to review. 
-The prototype meets its core objectives and provides a strong foundation for future enhancements.
+The above format shows how each delieverable corresponds with each phase of SDLC, making it easy for anyone
+to go through the entire UniWell project. The prototype meets its main requirements and it is a good starting
+point.
