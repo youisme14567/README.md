@@ -1,7 +1,7 @@
 # UniWell- Student habit tracker App
 SDG3: Good Health and Well-Being
 
-### problem description
+# problem description
 UniWell is a application designed for university students to track their health habits including water intake, sleep, exercise and meals. This app supports SDG3 by promoting Good Health and Well-Being through this app, it helps students build healthier daily rountine.# Team Members
 
 # Team members:
@@ -12,7 +12,7 @@ Member: Maha Abdullah Ahmed ALsukhailah - Testing and Report
 Member: Mariam Yousef M ALodah - UI/UX design and Github
 Member: Huang Yi Xuan - Prototype
 
-## SDLC Overveiw
+# SDLC Overveiw
 The project team completed four main tasks:
 
 - Planning & Requirements (Sprint 1): We focused on planning and requirements. We defined the product vision around SDG3, which is all about health and well-being. Then we gathered the functional and non-functional requirments for you to know the basic of of what app needed to do and how it should perform. We also set up the trello backlog to keep track of everything.
