@@ -11,30 +11,21 @@ This promotes healthier life style and timely medical attention.
 
 # Scope
 The system will include:
-
-Authentication: Secure login, Create a password, Password reset.
-
-Health Records: Input and update daily water intake, sleep hours, exercise, and meals.
-
-Data Visualization: Dashboard summaries and weekly averages.
-
-Smart Reminders: Notifications when data is not recorded.
-
-Admin Functions: Account management, health tips publishing, statistical reporting, and system monitoring.
+- Authentication: Secure login, Create a password, Password reset.
+- Health Records: Input and update daily water intake, sleep hours, exercise, and meals.
+- Data Visualization: Dashboard summaries and weekly averages.
+- Smart Reminders: Notifications when data is not recorded.
+- Admin Functions: Account management, health tips publishing, statistical reporting, and system monitoring.
 
 # Timeline
--Week 1: Planning and requirements.
--Week 2: Design(wireframes and diagrams).
--Week 3: Prototype development.
--Week 4: Testing and Finalization.
+- Week 1: Planning and requirements.
+- Week 2: Design(wireframes and diagrams).
+- Week 3: Prototype development.
+- Week 4: Testing and Finalization.
 
 # Team roles:
 -Leader/Coordinator: Overseas progress, ensures deadlines are met.
-
 -Designer: Creates diagrams, wireframes, and UI layouts.
-
 -Developer: implements prototype features and commits code.
-
 -Tester: Conducts testing, collect feedback, and reports bug.
-
 -Documenter: prepares reports, organizes evidence, and updates Github.
