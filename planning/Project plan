@@ -1,10 +1,13 @@
 # Planning 
 UniWell health tracker that supports SDG3: Good Health and Well-Being.
 
-# Mission
-Our mission is to empower students to take control of their health by providing a simple, accessible, and reliable application.
-The student health tracker will help users log daily health and receive personalized reminders, and access emergency support when needed. By fostering healthier rountines and ensuring timely medical assistance, 
-our solution contributes to SDG3:Good Health and Well-Being, promoting a safer and more supportive university enviroment.
+# Problem statement
+Students find it challenging to track daily health habits and respond to emergencies quickly.
+
+# Objective
+Our objective is to provide a daily haelth logging for instance water intake, sleep, exercise and meal.
+UniWell will enable student to log their daily health, reminders and access emergency support when needed.
+This promotes healthier life style and timely medical attention.
 
 # Scope
 The system will include:
@@ -19,13 +22,11 @@ Smart Reminders: Notifications when data is not recorded.
 
 Admin Functions: Account management, health tips publishing, statistical reporting, and system monitoring.
 
-# Tool Used:
-
-Github -Version control, commits, and respository organization.
-
-Trello -Agile board for backlog, sprint planning, and task tracking.
-
-Prototype tool -Figma for ui and application developement.
+# Timeline
+-Week 1: Planning and requirements.
+-Week 2: Design(wireframes and diagrams).
+-Week 3: Prototype development.
+-Week 4: Testing and Finalization.
 
 # Team roles:
 -Leader/Coordinator: Overseas progress, ensures deadlines are met.
@@ -37,26 +38,3 @@ Prototype tool -Figma for ui and application developement.
 -Tester: Conducts testing, collect feedback, and reports bug.
 
 -Documenter: prepares reports, organizes evidence, and updates Github.
-
-# Sprints Goal:
-
-Week 1(Sprint 1): Define vision, backlog, and requirments. Create initial diagrams.
--Leader: Organize trello board and backlog.
--Designer: Draft use case and class diagram.
--Documenter: Upload requirements and project plan.
-
-Week2(Sprint 2): Develop prototype draft and upload design evidence.
-- Developer: Build login and health record features.
-- Designer: Create wireframes and UI mockups.
-- Documenter: Upload design notes and screenshots.
-
-Week3(Sprint 3): Conduct testing, collect feedback, and refine prototype.
-- Tester: Run test cases and record results.
-- Developer: Fix bugs and refine features.
-- Documenter: Upload bug reports and feedback notes.
-
-Week4(Sprint4): Finalize prototype, compile results, and prepare presentation.
-- Leader:Coordinate final sprint tasks.
-- Developer: Upload final prototype screenshots.
-- Documenter: Prepare results summary and presentation slides.
-- All: Ensure Github and Trello evidence are complete.
