@@ -1,0 +1,32 @@
+# Testing Overview
+
+-Three users participated in prototype testing of the student health tracker System
+
+- The goal was to evluate usability and user experience, focusing on core tasks such as logging in,recording health, and veiwing progress.
+
+## Testing Process
+
+- Each user asked to complete the main actions without prior instructions.
+
+- observation were made on ease of navigation, clarity of interface, and ability to complete tasks.
+
+### Results 
+
+- All users successfully logged in, recorded health data, and veiwed progress.
+
+- Minor hesitation ocuurred when locating the activity recording section, but users adapted quickly.
+
+- Dashboard layout, icons, and progress indicators wrer consistently praised for clarity and usability.
+
+#### Insights and Improvements
+
+- The system is generally intuitive and user-friendly
+
+- Improvemnets needed: make the activity recording section more visible, refine navigation for first time users.
+
+- Feedback confirmed that the prototype supports the projects goal of promoting student health tracking.
+
+##### Conclusion
+
+The user testing confirmed that the prototype meets its primary usability goals. Small refinements will further enchance 
+the overall user experience.
