@@ -1,0 +1,23 @@
+Summary of results
+
+# Overveiw
+The Uniwell prototype was successfully developed and tested. it provides students
+with daily wellness companion that supports health logging, progress tracking,
+reminders and emergency alerts.
+
+# Results
+1. Students were able to create accounts, log in and reset passwords smoothly.
+2. Health logging and progress indiactors were clear and easy to use.
+3. Weekly summaries and reminders encouraged consistent tracking of water intake, sleep, and exercise.
+4. Emergency alerts worked as intended, notifying the University clinic and allowing direct calls.
+5. Minor improvements were identified in navigation and visibility of the activity recording section.
+
+#SDLC reflection
+-Planning: Requirements defined, Trello board used for task tracking, project plan prepared.
+-Design: Wireframes and mockups created to visualize UniWell’s flow.
+-Testing: Three users tested the prototype; feedback confirmed usability and highlighted small areas for improvement.
+-Finalization: Prototype screenshots compiled, results summarized, and refinements noted.
+
+#Conclusion
+This organization of deliverables demonstrates the SDLC phases clearly and makes the UniWell project easy to review. 
+The prototype meets its core objectives and provides a strong foundation for future enhancements.
