@@ -1,31 +1,32 @@
 # Planning 
-UniWell health tracker that supports SDG3: Good Health and Well-Being.
+UniWell:A Health Tracker for SDG3: Good Health and Well-being.
 
 # Problem statement
-Students find it challenging to track daily health habits and respond to emergencies quickly.
+Students face difficulties in monitoring their daily health habits. Emergencies also make it difficult for the students to seek
+medical attention on time.
 
 # Objective
-Our objective is to provide a daily haelth logging for instance water intake, sleep, exercise and meal.
-UniWell will enable student to log their daily health, reminders and access emergency support when needed.
-This promotes healthier life style and timely medical attention.
+Our objective is to create a daily haelth logging for the students. This will include water intake, sleep hours, exercising and meal intakes.
+UniWell will enable the student to log their daily health habits. This will help the students to maintain a healthy lifestyles. The students will also
+be able to seek medical atention on time in case of an emergency.
 
 # Scope
-The system will include:
-- Authentication: Secure login, Create a password, Password reset.
-- Health Records: Input and update daily water intake, sleep hours, exercise, and meals.
-- Data Visualization: Dashboard summaries and weekly averages.
-- Smart Reminders: Notifications when data is not recorded.
-- Admin Functions: Account management, health tips publishing, statistical reporting, and system monitoring.
+The project will include the following:
+- Authentication: Secure Login, Create a Password, Password Reset.
+- Health Records: Input daily water intake, sleeping hours, exercising, and meal intakes.
+- Data Visualization: Dashboard Summary, Weekly Averages.
+- Smart Reminders: Send reminders for data that has not been recorded.
+- Admin Functions: Account Management, Health Tips Pulishing, Statistical Reports, System Monitoring.
 
 # Timeline
 - Week 1: Planning and requirements.
 - Week 2: Design(wireframes and diagrams).
-- Week 3: Prototype development.
+- Week 3: Development.
 - Week 4: Testing and Finalization.
 
 # Team roles:
--Leader/Coordinator: Overseas progress, ensures deadlines are met.
--Designer: Creates diagrams, wireframes, and UI layouts.
--Developer: implements prototype features and commits code.
--Tester: Conducts testing, collect feedback, and reports bug.
--Documenter: prepares reports, organizes evidence, and updates Github.
+-Leader/Coordinator: Oversee the progress of the project, Ensures that the project is completed on time.
+-Designer: Design diagrams, wireframes, and UI layouts.
+-Developer: Responsible for implementing the prototype features.
+-Tester: Responsible for testing, collecting feedback, and reporting a bug.
+-Documenter: Responsible for preparing reports, collecting evidence, and updating the Github.
